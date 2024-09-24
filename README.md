@@ -1,2 +1,2 @@
-# Machine-Learning-first_homwork
+# Machine-Learning-first_homework
 housing price &amp; sin(x)
